@@ -17,8 +17,3 @@ This project applies **Principal Component Analysis (PCA)** and **K-Means Cluste
 ##  Dataset
 [Breast Cancer Wisconsin (Diagnostic) Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
-##  How to Run
-Make sure you have NumPy and Matplotlib installed.
-
-```bash
-pip install numpy matplotlib
